@@ -10,8 +10,8 @@ Conéctate o revisa otros proyectos:
 
 | Plataforma | Enlace |
 | :--- | :--- |
-| **LinkedIn** | Santiago Aparicio Pérez](https://www.linkedin.com/in/santiap/) |
-| **Portafolio** |(https://santiap11.github.io/) |
+| **LinkedIn** | Santiago Aparicio Pérez https://www.linkedin.com/in/santiap/ |
+| **Portafolio** | https://santiap11.github.io/ |
 
 ---
 
