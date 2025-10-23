@@ -33,7 +33,7 @@ El análisis se basa en datos históricos del ICFES Saber 11° entre los años 2
 El liderazgo se mantiene, pero las tendencias son cruciales para la toma de decisiones. A continuación, la tabla resumen generada por el modelo:
 
 ### Tabla de Resultados de la Regresión Lineal
-![Tabla de resultados del modelo de Regresión Lineal con predicción 2025 y tendencias](assets/tabla_regresion.png)
+![Tabla de resultados del modelo de Regresión Lineal con predicción 2025 y tendencias](assets/tabla_regresion.PNG)
 
 | Colegio | Predicción Puntaje Global 2025 | Tendencia Anual (Coeficiente) | RMSE (Error Histórico) |
 | :--- | :--- | :--- | :--- |
@@ -49,7 +49,7 @@ El liderazgo se mantiene, pero las tendencias son cruciales para la toma de deci
 El siguiente gráfico de líneas muestra la trayectoria histórica de cada colegio (líneas sólidas) y cómo el modelo de Regresión Lineal proyecta esa tendencia hasta el año 2025.
 
 ### Gráfico de Proyección Histórica
-![Gráfico de líneas con trayectoria histórica de puntajes y proyección a 2025](assets/grafico_proyeccion.png)
+![Gráfico de líneas con trayectoria histórica de puntajes y proyección a 2025](assets/grafico_proyeccion.PNG)
 
 ## Archivos y Tecnologías
 
