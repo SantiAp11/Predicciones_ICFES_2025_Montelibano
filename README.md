@@ -35,14 +35,6 @@ El liderazgo se mantiene, pero las tendencias son cruciales para la toma de deci
 ### Tabla de Resultados de la Regresión Lineal
 ![Tabla de resultados del modelo de Regresión Lineal con predicción 2025 y tendencias](assets/tabla_regresion.PNG)
 
-| Colegio | Predicción Puntaje Global 2025 | Tendencia Anual (Coeficiente) | RMSE (Error Histórico) |
-| :--- | :--- | :--- | :--- |
-| **FUNDACIÓN EDUCATIVA DE MONTELÍBANO** | 331.37 | +0.99 | 5.88 |
-| **I.E. SAN ANTONIO MARÍA CLARET** | 311.22 | **+4.20** | 10.12 |
-| **COLEGIO BERNARDO OSPINA VILLA** | 282.17 | **+4.88** | 5.69 |
-| **COLEGIO EL ROSARIO** | 327.76 | +2.51 | 12.00 |
-| **I.E. CONCENTRACIÓN EDUCATIVA DEL SUR DE MONTELÍBANO** | 230.59 | **-0.19 (ALERTA)** | 3.69 |
-
 
 ## Visualización de la Proyección
 
