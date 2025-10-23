@@ -4,6 +4,8 @@ Este proyecto de Data Science aplica el análisis de series de tiempo para proye
 
 El objetivo principal es pasar de la simple visualización de datos históricos a la generación de **insights estratégicos** basados en la inercia de crecimiento de cada institución.
 
+**Ver Proyecto Anterior (EDA Nacional):** (https://github.com/SantiAp11/saber11-analisis-exploratorio)
+
 ## Perfil Profesional
 
 Conéctate o revisa otros proyectos:
